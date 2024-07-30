@@ -2,6 +2,10 @@
 
 Collections of comprehensive reviews that guide towards AGI.
 
+- we get 170~ surveys 
+
+---
+
 Surveys about:
 
 - 🎡LLMs : `Pretrained`,`PEFT`, `RLHF`, `Prompt`, `Long-Context`, `Evaluation`, `Hallucination`, `data`, `Resoning`, `Knowledge`, `NLP-task`.. 
@@ -20,9 +24,11 @@ Surveys about:
 
 ## Survey List
 
+The raw data we publish in `./survey.csv`
+
 | title                                                        | tag  |
 | ------------------------------------------------------------ | ---- |
-| Efficient Training of Large Language Models on Distributed Infrastructures: A Survey |      |
+| **Efficient Training of Large Language Models on Distributed Infrastructures: A Survey** |      |
 | Self-Supervised Learning for Text Recognition: A Critical Survey |      |
 | Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting |      |
 | AI-Driven Healthcare: A Survey on Ensuring Fairness and Mitigating Bias |      |
@@ -30,7 +36,7 @@ Surveys about:
 | Large Language Models for Human-like Autonomous Driving: A Survey |      |
 | Comprehensive Survey of Complex-Valued Neural Networks: Insights into Backpropagation and Activation Functions |      |
 | Mobile Edge Intelligence for Large Language Models: A Contemporary Survey |      |
-| Reinforcement Learning for Sustainable Energy: A Survey      |      |
+| ~~Reinforcement Learning for Sustainable Energy: A Survey~~  |      |
 | The Art of Refusal: A Survey of Abstention in Large Language Models |      |
 | AI Safety in Generative AI Large Language Models: A Survey   |      |
 | Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey |      |
@@ -47,14 +53,14 @@ Surveys about:
 | A Survey on Universal Approximation Theorems                 |      |
 | Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey) |      |
 | Computational Politeness in Natural Language Processing: A Survey |      |
-| LLM Inference Serving: Survey of Recent Advances and Opportunities |      |
+| **LLM Inference Serving: Survey of Recent Advances and Opportunities** |      |
 | Reasoning with Large Language Models, a Survey               |      |
 | Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond |      |
-| A Survey on LoRA of Large Language Models                    |      |
+| **A Survey on LoRA of Large Language Models**                |      |
 | Towards Systematic Monolingual NLP Surveys: GenA of Greek NLP |      |
 | The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective |      |
 | A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends |      |
-| A Survey on Mixture of Experts                               |      |
+| **A Survey on Mixture of Experts**                           |      |
 | Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models |      |
 | A Survey of Controllable Learning: Methods and Applications in Information Retrieval |      |
 | Jailbreak Attacks and Defenses Against Large Language Models: A Survey |      |
@@ -166,11 +172,11 @@ Surveys about:
 | How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model |      |
 | Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications |      |
 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions |      |
-| A Survey of Large Language Models Attribution |      |
+| A Survey of Large Language Models Attribution                |      |
 | Diffusion Models for Reinforcement Learning: A Survey        |      |
 | LLM4Drive: A Survey of Large Language Models for Autonomous Driving |      |
 | What Formal Languages Can Transformers Express? A Survey     |      |
-| AI Alignment: A Comprehensive Survey                         |      |
+| **AI Alignment: A Comprehensive Survey**                     |      |
 | Evaluating Large Language Models: A Comprehensive Survey     |      |
 | Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey |      |
 | Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey |      |
@@ -191,6 +197,3 @@ Surveys about:
 | Reinforcement Learning for Generative AI: A Survey           |      |
 | A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions |      |
 | Efficient Training of Large Language Models on Distributed Infrastructures: A Survey |      |
-
-
-
